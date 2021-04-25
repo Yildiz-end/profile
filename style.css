@@ -1,0 +1,15 @@
+/* table border  */
+th{
+    background-color:darkgray;
+}
+
+/* color with name */
+h1{
+    color:darksalmon;
+}
+
+/* red green blue */
+/* 0-255  */
+h2 {
+    color:rgb(255,99, 71);
+}
