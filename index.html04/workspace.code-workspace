@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../frontend html/html2-3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "profile"
+	}
+}
